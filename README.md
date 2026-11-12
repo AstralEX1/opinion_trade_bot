@@ -1,8 +1,11 @@
-# BidAsk Bot
+<div align="center">
+  <a href="https://x.com/BidAsk_bot/status/2021481426999538115"><img src="https://img.shields.io/badge/%F0%9F%8F%86%20Winner-Opinion%20Builders%20Program%20%C2%B7%20Phase%202%20grant-8D6B13?style=for-the-badge&labelColor=171923" alt="Winner of the Opinion Builders Program, Phase 2 grant" /></a>
+  <h1>BidAsk Bot</h1>
+</div>
 
 BidAsk Bot is a Telegram interface for trading prediction markets on [Opinion](https://app.opinion.trade). The hosted bot is documented with floating limit orders that follow market prices, plus order and price notifications.
 
-🏆 **Grant recipient:** [announcement on X](https://x.com/BidAsk_bot/status/2021481426999538115)
+🏆 **Winner of the Opinion Builders Program, Phase 2** (grant): [announcement on X](https://x.com/BidAsk_bot/status/2021481426999538115)
 
 ## Links
 
